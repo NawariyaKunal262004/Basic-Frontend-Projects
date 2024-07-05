@@ -30,7 +30,7 @@ Basic Frontend Projects
       ;
       alt="html-css-javasript"
       style="width: 100%; max-width: 600px"
-    />br
+    />
     <li>
       <b>HTML</b>: The HyperText Markup Language or <i>HTML</i> is the standard
       markup language for documents designed to be displayed in a web browser.
